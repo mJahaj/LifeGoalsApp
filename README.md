@@ -24,3 +24,13 @@
 
  if your new state depends on a previous state its best to pass a function(state update function)
  function called automaticaly by react
+
+ Notes:
+ Example display array
+         <ScrollView>
+          {allGoals.map((goal) => (
+            <View style={styles.goalItem} key={goal}>
+              <Text style={styles.goalText}>{goal}</Text>
+            </View>
+          ))}
+        </ScrollView>
