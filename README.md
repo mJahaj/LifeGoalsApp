@@ -38,3 +38,7 @@
 FlatList: keyExtractor={(item, index) => {//called to get a key out of every item
    return item.id;
 } }
+
+
+#ios style prop for Pressable
+style={({pressed}) pressed && styles.pressedItem}
