@@ -1,6 +1,6 @@
 # LifeGoalsApp
 
-LifeGoalsApp is a mobile application for setting and tracking your life goals. With LifeGoalsApp, you can create a list of your most important life goals.
+LifeGoalsApp is a mobile application for setting and tracking your life goals. With LifeGoalsApp, you can create a list of your most important life goals. (For Studying React Native)
 
 ## Features
 
